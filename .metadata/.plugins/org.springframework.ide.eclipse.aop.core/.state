@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="spring-cloud-consul-producer-2"/>
+<aop-project name="spring-boot-admin-server"/>
+<aop-project name="spring-cloud-consumer-hystrix-dashboard"/>
+<aop-project name="spring-cloud-producer-2"/>
+<aop-project name="spring-cloud-consumer-hystrix"/>
+<aop-project name="spring-cloud-eureka-two"/>
+<aop-project name="hystrix-dashboard-turbine"/>
+<aop-project name="spring-cloud-zuul"/>
+<aop-project name="spring-cloud-config-client"/>
+<aop-project name="spring-cloud-consumer-node1"/>
+<aop-project name="zipkin-server"/>
+<aop-project name="spring-cloud-consumer"/>
+<aop-project name="spring-cloud-config-client-refresh"/>
+<aop-project name="spring-cloud-consumer-node2"/>
+<aop-project name="spring-cloud-config-server"/>
+<aop-project name="spring-cloud-consul-producer"/>
+<aop-project name="spring-cloud-eureka"/>
+<aop-project name="spring-cloud-eureka-cluster"/>
+<aop-project name="gateway-service-zuul-simple"/>
+<aop-project name="spring-cloud-consul-consumer"/>
+<aop-project name="cloud-gateway-eureka"/>
+<aop-project name="cloud-gateway"/>
+<aop-project name="spring-cloud-producer-1"/>
+<aop-project name="gateway-service-zuul-eureka"/>
+<aop-project name="spring-cloud-producer"/>
+</aop-reference-model>
